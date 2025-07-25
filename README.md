@@ -12,7 +12,7 @@
 <br/><br/>
 
 <video width="600" controls>
-  <source src="media/Doraemon3D.mp4" type="video/mp4">
+  <source src="https://github.com/vietcuong2004/DO_HOA_MAY_TINH_TLU/releases/download/video/Doraemon3D.mp4" type="video/mp4">
   Trình duyệt của bạn không hỗ trợ video tag.
 </video>
 
