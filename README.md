@@ -7,12 +7,12 @@
 
 <div align="center">
 
-<!-- Ảnh minh họa có thể click -->
-<a href="https://github.com/vietcuong2004/DO_HOA_MAY_TINH_TLU/releases/download/video/Doraemon3D.mp4">
-  <img src="https://github.com/user-attachments/assets/d75e5354-563c-4da2-95a8-6713a1e5a150" width="600" alt="Click để xem video"/>
-</a>
+<!-- Ảnh demo -->
+<img src="https://github.com/user-attachments/assets/d75e5354-563c-4da2-95a8-6713a1e5a150" width="600"/>
 
-<br/>
-<b>🔼 Nhấn vào ảnh để xem video demo Doraemon chạy vòng quanh</b>
+<br/><br/>
+
+<!-- Nhúng video YouTube -->
+<iframe width="600" height="340" src="https://youtu.be/R4AjQrmIa4o" frameborder="0" allowfullscreen></iframe>
 
 </div>
