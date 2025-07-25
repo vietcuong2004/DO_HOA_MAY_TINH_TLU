@@ -7,12 +7,9 @@
 
 <div align="center">
 
-<!-- Ảnh demo có thể click -->
-<a href="https://youtu.be/R4AjQrmIa4o" target="_blank">
-  <img src="https://github.com/user-attachments/assets/d75e5354-563c-4da2-95a8-6713a1e5a150" width="600" alt="Click để xem video"/>
-</a>
+<img src="media/Doraemon3D.gif" width="600"/>
 
 <br/>
-<b>🔼 Nhấn vào ảnh để xem video demo Doraemon chạy vòng quanh trên YouTube</b>
+<b>🔼 Video Demo</b>
 
 </div>
