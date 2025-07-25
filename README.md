@@ -7,9 +7,14 @@
 
 <div align="center">
 
-<img src="media/Doraemon3D.gif" width="600"/>
+<!-- Ảnh tĩnh ban đầu -->
+<img src="https://github.com/user-attachments/assets/d75e5354-563c-4da2-95a8-6713a1e5a150" width="600" alt="Hình ảnh minh họa Doraemon"/>
+
+<br/><br/>
+
+<!-- GIF mô phỏng hoạt động -->
+<img src="media/Doraemon3D.gif" width="600" alt="GIF Doraemon chạy vòng quanh"/>
 
 <br/>
-<b>🔼 Video Demo</b>
 
 </div>
